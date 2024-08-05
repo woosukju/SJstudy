@@ -22,7 +22,9 @@
 # confilct merge
 ![ex_screenshot](./resource/6번.gif)
 
-
+# localremote branch[GitHub]와 local branch 충돌 해결
+![ex_screenshot](./resource/리모트와로컬브랜치충돌해결.png)
+![ex_screenshot](./resource/리모트와로컬브랜치충돌해결2.png)
 
 # local branch 삭제
 ![ex_screenshot](./resource/8번문제.gif)
