@@ -42,9 +42,17 @@
 
 2. 특정 고객이 한 주문에 포함된 모든 제품과 그 수량을 조회하는 SQL SELECT 문을 작성하세요. (10점)
 
+**3번보다 늦게 sql 쿼리문을 작성하여서 결과가 이렇게 나왔습니다**
+   - 3번문제에서 수정한 데이터 사진
+      - ![ex_screenshot](./resource/3question/3번문제%202.png)
+      - ![ex_screenshot](./resource/3question/3번문제결과2.png)
+
+   - sql 및 결과
+      - ![ex_screenshot](./resource/2question/2번문제2.png)
 ## 문제 3: 데이터 갱신 및 삭제 (20점)
 **시나리오:**  
 고객의 주소가 변경되었으며, 특정 주문에 포함된 제품을 삭제하려고 합니다.
+
 
 **문제:**  
 1. 고객 ID가 1인 고객의 주소를 `"New Address, City, Country"`로 업데이트하는 SQL UPDATE 문을 작성하세요. (10점)
