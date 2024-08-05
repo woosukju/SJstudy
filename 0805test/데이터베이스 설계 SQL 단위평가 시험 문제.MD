@@ -26,10 +26,10 @@
 **문제:**  
 1. 각 테이블(Customer, Product, Order, Order_Detail)에 최소 2개의 샘플 데이터를 삽입하는 SQL INSERT 문을 작성하세요. (15점)
    - 예시: 고객 2명, 제품 2개, 주문 2개, 각 주문당 2개의 제품
-   ![ex_screenshot](./resource/2question/2번문제_값추家.png)
-   ![ex_screenshot](./resource/2question/2번문제_제품.png)
-   ![ex_screenshot](./resource/2question/2번문제_주문.png)
-   ![ex_screenshot](./resource/2question/2번문제%20주문상세.png)
+   - ![ex_screenshot](./resource/2question/2번문제_값추家.png)
+   - ![ex_screenshot](./resource/2question/2번문제_제품.png)
+   - ![ex_screenshot](./resource/2question/2번문제_주문.png)
+   - ![ex_screenshot](./resource/2question/2번문제%20주문상세.png)
 
    -각 테이블 결과
       - 고객은 실수로 결과르 캡처하지 못했음
