@@ -8,15 +8,15 @@
 
 
 # git local branch 생성
-![ex_screenshot](./resource/3번 문제.gif)
+![ex_screenshot](./resource/3번문제.gif)
 
 
 # fast-forward merge
-![ex_screenshot](./resource/4번 문제.gif)
+![ex_screenshot](./resource/4번문제.gif)
 
 
 # 3 way merge
-![ex_screenshot](./resource/5번 문제.png)
+![ex_screenshot](./resource/5번문제.png)
 
 
 # confilct merge
